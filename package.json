@@ -9,6 +9,8 @@
     "angularjs-templates-brunch": "^1.0.0"
   },
   "dependencies": {
-    "css-brunch": "^2.6.1"
+    "clean-css-brunch": "^2.0.0",
+    "css-brunch": "^2.6.1",
+    "uglify-js-brunch": "^2.0.1"
   }
 }
